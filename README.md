@@ -1,12 +1,12 @@
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 
-**DATE: 09-02-2026**
+**DATE: 17-02-2026**
 
-**NAME: PAKANATI MONISH**
+**NAME: PAMURU VENKATESH**
 
-**ROLL NO: 212224240109**
+**ROLL NO: 212224040230**
 
-**DEPARTMENT: AIML**
+**DEPARTMENT: CSE**
 
 ## Aim:
 
@@ -132,7 +132,7 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of Serial port utility   :
-![image](https://github.com/user-attachments/assets/8f5fe697-5be1-45f6-b7d8-fa2b3c4343b9)
+<img width="1911" height="1055" alt="Screenshot 2026-02-17 111630" src="https://github.com/user-attachments/assets/630f24f7-3984-439f-9838-d8ec88952482" />
 
 
 ## Result :
